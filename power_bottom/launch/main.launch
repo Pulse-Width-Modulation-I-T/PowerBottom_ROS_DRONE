@@ -1,3 +1,4 @@
 <launch>
 	<node name="windows_detect" pkg="windows_detect" type="windows_detect.py"/>
+	<node name="station land" pkg="station land" type="station_land.py">
 </launch>
