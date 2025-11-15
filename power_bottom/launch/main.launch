@@ -1,0 +1,3 @@
+<launch>
+	<node name="power_bottom" pkg="power_bottom" type="main.py"/>
+</launch>
